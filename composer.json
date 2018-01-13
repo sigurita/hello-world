@@ -10,7 +10,7 @@
 	},
 	"autoload": {
 		"psr-4": {
-			"sigurita\\": "src/"
+			"sigurita\\": "src/sigurita/"
 		}
 	}
 }
