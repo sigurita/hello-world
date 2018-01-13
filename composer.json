@@ -1,0 +1,7 @@
+{
+	"name": "sigurita/hello-world",
+	"description": "A simple 'hello world' component.",
+	"require": {
+		"php": "^5.5 || ^7.0"
+	}
+}
