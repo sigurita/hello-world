@@ -1,7 +1,16 @@
 {
 	"name": "sigurita/hello-world",
 	"description": "A simple 'hello world' component.",
+	"type": "component",
+	"keywords": ["hello-world"],
+	"homepage": "https://github.com/sigurita/hello-world",
+	"license": "MIT",
 	"require": {
 		"php": "^5.5 || ^7.0"
+	},
+	"autoload": {
+		"psr-4": {
+			"sigurita\\": "src/"
+		}
 	}
 }
